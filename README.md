@@ -1,5 +1,7 @@
 Sample project to test CI/CD pipelines
 
+[![Build status](https://badge.buildkite.com/633dab5858953475f2bd3e8809ea9a2d2aefd1fe66847fcc18.svg)](https://buildkite.com/quantleap/flutter-build-pipeline)
+
 # flutter_application_1
 
 A new Flutter project.
